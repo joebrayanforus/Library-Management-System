@@ -20,7 +20,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
+![MEIN BILD](sqlprojekt.jpg)
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
@@ -512,4 +512,5 @@ This project demonstrates the application of SQL skills in creating and managing
 
 ## Author - TCHINDA OUMBE JOE BRAYAN 
 Thank you for your interest in my project!
+
 
